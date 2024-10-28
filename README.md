@@ -15,8 +15,13 @@
 <img src="https://github.com/user-attachments/assets/b76e2004-7981-4b72-8f63-64d12221da91" width="400" height="400"> 
 
 
-##### When you click the 'Recipe Operations Menu' button, you are directed to this page, which is the 'Recipe Addition Page.' To add a recipe, you need to enter the recipe name, category, preparation time, and instructions in the respective fields. Then, select the ingredient you want to add from the ingredient list and enter its quantity. If you prefer, you can also search for the ingredient quickly by typing in a few letters. Finally, once you press the 'Finish' button, the recipe and its ingredients will be successfully added.
+##### When you click the 'Recipe Operations Menu' button, you are directed to this page, which is the 'Recipe Addition Page.' To add a recipe, you need to enter the recipe name, category, preparation time, and instructions in the respective fields. Then, select the ingredient you want to add from the ingredient list and enter its quantity. If you prefer, you can also search for the ingredient quickly by typing in a few letters. Finally, once you press the 'Finish' button, the recipe and its ingredients will be successfully added. If the ingredient you want to add is not in the recipe, you can add a new ingredient by filling in the fields on the right side of the screen. To add a new ingredient, simply enter the ingredient name, total quantity, unit, and unit price. Then, you can select the new ingredient from the list and add it to the recipe. You can also go to the 'recipe update' and 'recipe delete' screen from the button on the top right.
 ![image](https://github.com/user-attachments/assets/30372e0e-f796-4f99-a54b-77fc3ef2c87c)
+
+
+##### This screen is for updating and deleting recipes. You can select any recipe from the list at the bottom left. Once you select a recipe, the program will automatically fill all the fields on the screen with that recipe's details, so you don't need to re-enter them. If you want to delete a recipe, use the left side of the screen and simply click the 'Delete' button. If you want to update a recipe, use the right side of the screen, where you can update the recipe's name, category, preparation time, and instructions. To manage ingredients for the current recipe, use the area at the bottom right. If you want to update the quantity of an ingredient in the current recipe, select the ingredient from the 'Ingredients in Recipe' list and update the amount. To delete an ingredient from the current recipe, select it from the 'Ingredients in Recipe' list and delete it. If you want to add a new ingredient to the current recipe, select the desired ingredient from the 'Ingredients' list and add it to the recipe.
+![image](https://github.com/user-attachments/assets/0a88d429-7464-4a05-895f-88b725aba02e)
+
 
 
 
