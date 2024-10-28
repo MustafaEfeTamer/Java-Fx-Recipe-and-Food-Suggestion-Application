@@ -24,6 +24,12 @@
 
 
 
+##### This screen is the 'Recipe Suggestion and Dynamic Search Screen.' Here, you can select the ingredients you want from the ingredient list and click the 'Add' button. You can then repeat this process to add any other ingredients you wish. Finally, when you click the 'List' button, the app will show you which recipes you can and cannot make based on the ingredients and quantities you've entered. Recipes you can make are shown in green, while those you cannot are shown in red. Additionally, next to each recipe, the app will display how much additional cost is needed, based on the ingredients and quantities you provided. Furthermore, each recipe shows a percentage that indicates how closely your selected ingredients match the ingredient requirements for that recipe.
+![image](https://github.com/user-attachments/assets/39cd3186-fbce-4d2e-8dc7-a45a13b1ac7c)
+
+
+
+
 
 
 
