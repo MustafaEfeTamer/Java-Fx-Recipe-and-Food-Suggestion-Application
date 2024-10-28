@@ -11,9 +11,13 @@
 ##### My filtering options are: Number of Ingredients, Food Category, Food Cost Range
 <img src="https://github.com/user-attachments/assets/8f56ab9f-352a-4452-b30c-19ebde040f18" width="400" height="200">    <img src="https://github.com/user-attachments/assets/002144aa-d8de-4ebe-b47f-09daabf73463" width="300" height="200"> 
 
-
 ##### List of recipes filtered by 'Food Category' and sorted by 'Very Costly to Less Costly'
 <img src="https://github.com/user-attachments/assets/b76e2004-7981-4b72-8f63-64d12221da91" width="400" height="400"> 
+
+
+##### When you click the 'Recipe Operations Menu' button, you are directed to this page, which is the 'Recipe Addition Page.' To add a recipe, you need to enter the recipe name, category, preparation time, and instructions in the respective fields. Then, select the ingredient you want to add from the ingredient list and enter its quantity. If you prefer, you can also search for the ingredient quickly by typing in a few letters. Finally, once you press the 'Finish' button, the recipe and its ingredients will be successfully added.
+![image](https://github.com/user-attachments/assets/30372e0e-f796-4f99-a54b-77fc3ef2c87c)
+
 
 
 
