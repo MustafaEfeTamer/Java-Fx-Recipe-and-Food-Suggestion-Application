@@ -13,6 +13,10 @@
 ##### My filtering options are: Number of Ingredients, Food Category, Food Cost Range
 <img src="https://github.com/user-attachments/assets/002144aa-d8de-4ebe-b47f-09daabf73463" width="300" height="200"> 
 
+##### List of recipes filtered by 'Food Category' and sorted by 'Very Costly to Less Costly'
+<img src="https://github.com/user-attachments/assets/b76e2004-7981-4b72-8f63-64d12221da91" width="400" height="400"> 
+
+
 
 
 
